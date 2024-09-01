@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'wrua.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'wsu',
-        'USER': 'root',
-        'PASSWORD': 'byg6zmXp@#$%',
-        'HOST': '127.0.0.1',
-        'PORT': 3306,
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': "",
     }
 }
 
